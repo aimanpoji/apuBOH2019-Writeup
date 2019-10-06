@@ -1,0 +1,9 @@
+for ((i=8; i>0; i--)); do strings -n 10 amazon$i.jpg; done #dir hint#
+
+++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>>++++.---.+++++++..+++.---------.++++++++++++.---------.----.+++++++++.----------.
+#brain fuck language#
+https://www.dcode.fr/brainfuck-language
+
+steghide extract -sf amazon5.jpg *dir saveMe#
+
+Flag: apuboh2019{#Pray.For.Amazon.flag}
