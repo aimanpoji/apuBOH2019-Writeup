@@ -1,6 +1,7 @@
 extract objects using wireshark 
 there is a 7z file but the file type is doc.
 
-crack the password using 7z2john.pl
+crack the password using John The Ripper
+get the hash using 7z2john.pl
 
 extract n run the file.
