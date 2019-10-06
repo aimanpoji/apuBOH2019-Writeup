@@ -1,0 +1,5 @@
+extract files from mp3 using binwalk
+
+binwalk --dd='.*' <file.mp3> 
+
+then use stegsolve to find the flag in the extracted png file
